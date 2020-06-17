@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Developer-Portfolio-Karthik/static/css/main.1c3ce961.chunk.css",
-    "main.js": "/Developer-Portfolio-Karthik/static/js/main.3f78d30b.chunk.js",
-    "main.js.map": "/Developer-Portfolio-Karthik/static/js/main.3f78d30b.chunk.js.map",
-    "runtime-main.js": "/Developer-Portfolio-Karthik/static/js/runtime-main.3eab293c.js",
-    "runtime-main.js.map": "/Developer-Portfolio-Karthik/static/js/runtime-main.3eab293c.js.map",
-    "static/js/2.5ff30f50.chunk.js": "/Developer-Portfolio-Karthik/static/js/2.5ff30f50.chunk.js",
-    "static/js/2.5ff30f50.chunk.js.map": "/Developer-Portfolio-Karthik/static/js/2.5ff30f50.chunk.js.map",
-    "index.html": "/Developer-Portfolio-Karthik/index.html",
-    "precache-manifest.3923d72129c9c334234c967808ad33fa.js": "/Developer-Portfolio-Karthik/precache-manifest.3923d72129c9c334234c967808ad33fa.js",
-    "service-worker.js": "/Developer-Portfolio-Karthik/service-worker.js",
-    "static/css/main.1c3ce961.chunk.css.map": "/Developer-Portfolio-Karthik/static/css/main.1c3ce961.chunk.css.map",
-    "static/media/index.css": "/Developer-Portfolio-Karthik/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Guvi": "/Developer-Portfolio-Karthik/static/media/Guvi.39a098de.bin",
-    "static/media/Wipro": "/Developer-Portfolio-Karthik/static/media/Wipro.26ff4cee.bin",
-    "static/media/contactMail.png": "/Developer-Portfolio-Karthik/static/media/contactMail.d6d4086f.png",
-    "static/media/developerActivity.svg": "/Developer-Portfolio-Karthik/static/media/developerActivity.59389695.svg",
-    "static/media/manOnTable.svg": "/Developer-Portfolio-Karthik/static/media/manOnTable.52be3144.svg",
-    "static/media/skill.svg": "/Developer-Portfolio-Karthik/static/media/skill.34409398.svg"
+    "main.css": "/Developer-Portfolio/static/css/main.68e300b1.chunk.css",
+    "main.js": "/Developer-Portfolio/static/js/main.19e947a5.chunk.js",
+    "main.js.map": "/Developer-Portfolio/static/js/main.19e947a5.chunk.js.map",
+    "runtime-main.js": "/Developer-Portfolio/static/js/runtime-main.02023131.js",
+    "runtime-main.js.map": "/Developer-Portfolio/static/js/runtime-main.02023131.js.map",
+    "static/js/2.5ff30f50.chunk.js": "/Developer-Portfolio/static/js/2.5ff30f50.chunk.js",
+    "static/js/2.5ff30f50.chunk.js.map": "/Developer-Portfolio/static/js/2.5ff30f50.chunk.js.map",
+    "index.html": "/Developer-Portfolio/index.html",
+    "precache-manifest.ad3c341e19043381967595a7488a8848.js": "/Developer-Portfolio/precache-manifest.ad3c341e19043381967595a7488a8848.js",
+    "service-worker.js": "/Developer-Portfolio/service-worker.js",
+    "static/css/main.68e300b1.chunk.css.map": "/Developer-Portfolio/static/css/main.68e300b1.chunk.css.map",
+    "static/media/index.css": "/Developer-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Guvi": "/Developer-Portfolio/static/media/Guvi.39a098de.bin",
+    "static/media/Wipro": "/Developer-Portfolio/static/media/Wipro.26ff4cee.bin",
+    "static/media/contactMail.png": "/Developer-Portfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/Developer-Portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/Developer-Portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/Developer-Portfolio/static/media/skill.34409398.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3eab293c.js",
+    "static/js/runtime-main.02023131.js",
     "static/js/2.5ff30f50.chunk.js",
-    "static/css/main.1c3ce961.chunk.css",
-    "static/js/main.3f78d30b.chunk.js"
+    "static/css/main.68e300b1.chunk.css",
+    "static/js/main.19e947a5.chunk.js"
   ]
 }
