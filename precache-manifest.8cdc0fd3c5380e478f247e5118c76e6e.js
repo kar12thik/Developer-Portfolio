@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a135338103e06682596483d65b232395",
+    "revision": "4e49e379276e8863f944292660f54b6c",
     "url": "/Developer-Portfolio/index.html"
   },
   {
-    "revision": "b70aa5df77309d6ac145",
-    "url": "/Developer-Portfolio/static/css/main.68e300b1.chunk.css"
+    "revision": "61964b7d50959077a771",
+    "url": "/Developer-Portfolio/static/css/main.ccd5da7b.chunk.css"
   },
   {
-    "revision": "d57f5a8dd0a07121ed05",
-    "url": "/Developer-Portfolio/static/js/2.5ff30f50.chunk.js"
+    "revision": "718da2ce6d37875c6eca",
+    "url": "/Developer-Portfolio/static/js/2.f4d50678.chunk.js"
   },
   {
-    "revision": "b70aa5df77309d6ac145",
-    "url": "/Developer-Portfolio/static/js/main.19e947a5.chunk.js"
+    "revision": "61964b7d50959077a771",
+    "url": "/Developer-Portfolio/static/js/main.1413b14a.chunk.js"
   },
   {
     "revision": "da0b0796728751c9f6e3",
@@ -24,16 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Developer-Portfolio/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "39a098def0f0dd5528e94997a8644b0e",
-    "url": "/Developer-Portfolio/static/media/Guvi.39a098de.bin"
-  },
-  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/Developer-Portfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "26ff4ceea17de0db3e9b53d262b316ad",
-    "url": "/Developer-Portfolio/static/media/Wipro.26ff4cee.bin"
+    "revision": "114f1fd88b983b2bb442c1595aef3b8f",
+    "url": "/Developer-Portfolio/static/media/Wipro.114f1fd8.bin"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
